@@ -1,0 +1,9 @@
+como hacer un commit en git
+
+git commit -m "inicio"
+
+para crear  una nueva rama es con
+
+git branch rama2
+
+git checkout "(aca va el nombre de la rama)"
