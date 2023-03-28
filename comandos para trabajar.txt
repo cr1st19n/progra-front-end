@@ -3,7 +3,13 @@ como hacer un commit en git
 git commit -m "inicio"
 
 para crear  una nueva rama es con
-
 git branch rama2
 
+para cambiar de rama
 git checkout "(aca va el nombre de la rama)"
+
+para agregar todo de una rama a otra se hace
+desde la rama que quieres que queden todos los datos y luego el nombre
+de donde estan
+git merge (nombre de la rama que pasa los archivos)
+
